@@ -4,6 +4,7 @@
 <img src="assets/img.jpg" alt="Currency Converter App" width="200">
 <img src="assets/vid.gif" alt="Currency Converter App" width="200">
 </p>
+
 ## Technology Used
 - **Android Studio**
 - **Kotlin**
