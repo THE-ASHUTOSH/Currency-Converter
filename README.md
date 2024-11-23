@@ -1,6 +1,7 @@
 # Currency Converter App
 
-![Currency Converter App](assets/IMG_20241123_142104.jpg)
+![Currency Converter App](img.jpg)
+![Currency Converter App Gif](vid.gif)
 
 ## Technology Used
 - **Android Studio**
