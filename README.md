@@ -1,8 +1,8 @@
 # Currency Converter App
 
 <p>
-<img src="assets/img.jpg" alt="Currency Converter App" width="200">
-<img src="assets/vid.gif" alt="Currency Converter App" width="200">
+<img src="assets/img.jpg" alt="Currency Converter App" width="160">
+<img src="assets/vid.gif" alt="Currency Converter App" width="150">
 </p>
 
 ## Technology Used
