@@ -1,6 +1,6 @@
 # Currency Converter App
 
-<img src="assets/img.jpg" alt="Currency Converter App" width="400">
+<img src="assets/img.jpg" alt="Currency Converter App" width="200">
 
 ## Technology Used
 - **Android Studio**
